@@ -7,5 +7,5 @@
 
 
 #Contatos
--E-mail: matheusviana762z@gmail.com
--LinkedIn: https://www.linkedin.com/in/matheus-alves-viana/
+- E-mail: matheusviana762z@gmail.com
+- LinkedIn: https://www.linkedin.com/in/matheus-alves-viana/
