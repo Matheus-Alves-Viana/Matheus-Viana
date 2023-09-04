@@ -3,7 +3,7 @@
 - Conhecimento nas linguagens: Java, Python e JavaScript
 - Frameworks de testes: Selenim, Appium, Cucumber
 - Front-end: HTML5 e CSS3
-- Conhecimento diversos: OpenUI5, SQL, MongoDB
+- Conhecimentos diversos: OpenUI5, SQL, MongoDB
 
 
 #Contatos
