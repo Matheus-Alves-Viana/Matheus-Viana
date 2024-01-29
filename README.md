@@ -1,5 +1,5 @@
 # Matheus-Viana
-- Atualmente cursando o primeiro semestre de Sistemas de Informação e o sexto semestre de Administração
+- Atualmente cursando o 2º semestre de Sistemas de Informação e o 7º semestre de Administração
 - Conhecimento nas linguagens: Java, Python e JavaScript
 - Frameworks de testes: Selenim, Appium, Cucumber
 - Front-end: HTML5 e CSS3
